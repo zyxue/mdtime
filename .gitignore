@@ -1,2 +1,4 @@
 *.pyc
-Makefile
+build
+dist
+mdtime.egg-info
