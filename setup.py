@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(name='mdtime',
       version='1.0.1a1',
       author='Zhuyi Xue',
-      author_email='zhuyi.xue@mail.utoronto.ca',
+      author_email='alfred532008@gmail.com',
       url='http://www.zhuyixue.com',
       keywords = 'molecular dynamics gromacs time',
       license='GPLv3',
